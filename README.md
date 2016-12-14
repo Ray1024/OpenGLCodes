@@ -1,4 +1,4 @@
-# Ray1024_OpenGL_Codes
+# OpenGLCodes
 There are My OpenGL codes.
 
 ## OpenGL-GLFW
